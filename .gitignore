@@ -1,0 +1,20 @@
+# Python-specific
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.Python
+
+# Database files
+*.sqlite
+
+# Environment variables
+.env
+
+# IDE files (optional)
+.vscode/
+.idea/
+
+# Compiled Python files (optional)
+*.pyc
